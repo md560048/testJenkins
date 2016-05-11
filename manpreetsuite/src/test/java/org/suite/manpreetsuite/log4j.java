@@ -1,4 +1,4 @@
-package log4jsample;
+package org.suite.manpreetsuite;
 
 import java.io.File;
 
