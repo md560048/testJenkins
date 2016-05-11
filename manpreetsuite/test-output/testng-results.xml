@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31239" started-at="2016-05-09T11:56:27Z" finished-at="2016-05-09T11:56:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31239" started-at="2016-05-09T11:56:27Z" finished-at="2016-05-09T11:56:58Z">
+      <class name="log4jsample.log4j">
+        <test-method status="PASS" signature="chromeConfig()[pri:0, instance:log4jsample.log4j@13805618]" name="chromeConfig" is-config="true" duration-ms="2852" started-at="2016-05-09T17:26:24Z" finished-at="2016-05-09T17:26:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeConfig -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:log4jsample.log4j@13805618]" name="launchBrowser" is-config="true" duration-ms="24215" started-at="2016-05-09T17:26:27Z" finished-at="2016-05-09T17:26:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="weight()[pri:0, instance:log4jsample.log4j@13805618]" name="weight" duration-ms="1683" started-at="2016-05-09T17:26:51Z" finished-at="2016-05-09T17:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weight -->
+        <test-method status="PASS" signature="height()[pri:1, instance:log4jsample.log4j@13805618]" name="height" duration-ms="2467" started-at="2016-05-09T17:26:53Z" finished-at="2016-05-09T17:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- height -->
+        <test-method status="PASS" signature="calculate()[pri:2, instance:log4jsample.log4j@13805618]" name="calculate" duration-ms="633" started-at="2016-05-09T17:26:55Z" finished-at="2016-05-09T17:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculate -->
+        <test-method status="PASS" signature="gettingUnits()[pri:3, instance:log4jsample.log4j@13805618]" name="gettingUnits" duration-ms="1509" started-at="2016-05-09T17:26:56Z" finished-at="2016-05-09T17:26:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingUnits -->
+        <test-method status="PASS" signature="screenshot()[pri:4, instance:log4jsample.log4j@13805618]" name="screenshot" duration-ms="705" started-at="2016-05-09T17:26:58Z" finished-at="2016-05-09T17:26:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:log4jsample.log4j@13805618]" name="quitBrowser" is-config="true" duration-ms="1866" started-at="2016-05-09T17:26:58Z" finished-at="2016-05-09T17:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- log4jsample.log4j -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
