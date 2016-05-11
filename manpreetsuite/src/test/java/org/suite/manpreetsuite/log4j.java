@@ -28,7 +28,7 @@ public class log4j {
 		   DesiredCapabilities capabilities = DesiredCapabilities.chrome();
 		   ChromeOptions options = new ChromeOptions();
 		   capabilities.setCapability(ChromeOptions.CAPABILITY, options);
-		   System.setProperty("webdriver.chrome.driver","C:\\Users\\Manpreet Kaur\\Documents\\chromedriver.exe");
+		   System.setProperty("webdriver.chrome.driver","C:\\Users\\Manpreet Kaur\\Selenium\\manpreetsuite\\src\\chromedriver.exe");
 		   driver = new ChromeDriver(capabilities); 
 		   
 		   
