@@ -105,7 +105,7 @@ public class log4j {
 	  {
 		  File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
           
-             FileUtils.copyFile(scrFile, new File ("C:\\Users\\Manpreet Kaur\\Documents\\GIT_Manpreet.png"));
+             FileUtils.copyFile(scrFile, new File ("C:\\Users\\Manpreet Kaur\\Selenium\\manpreetsuite\\ManpreetScreenshot\\s1.png"));
 		  
 	  }
   }
